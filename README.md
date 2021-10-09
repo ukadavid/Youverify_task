@@ -1,2 +1,3 @@
 # Youverify_task
-These are the answers to the problems 
+
+All the task was done via JavaScript, and the each answers correspnds to question on the task. 
